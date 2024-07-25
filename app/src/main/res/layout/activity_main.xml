@@ -55,56 +55,56 @@
             <androidx.appcompat.widget.AppCompatButton
 
                 android:id="@+id/ac"
-                android:text="@string/ac"
-                android:background="@color/blood_red"
-                android:textColor="@color/white"
-                android:layout_margin="5dp"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
+                android:layout_margin="5dp"
                 android:layout_weight="1"
-                android:textSize="20sp"
+                android:background="@color/blood_red"
+                android:text="@string/ac"
+                android:textColor="@color/white"
+                android:textSize="30sp"
 
                 />
 
             <androidx.appcompat.widget.AppCompatButton
 
                 android:id="@+id/openParenthesis"
-                android:text="@string/openParenthesis"
-                android:background="@color/blood_red"
-                android:textColor="@color/white"
-                android:layout_margin="5dp"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
+                android:layout_margin="5dp"
                 android:layout_weight="1"
-                android:textSize="20sp"
+                android:background="@color/blood_red"
+                android:text="@string/openParenthesis"
+                android:textColor="@color/white"
+                android:textSize="30sp"
 
                 />
 
             <androidx.appcompat.widget.AppCompatButton
 
                 android:id="@+id/closeParenthesis"
-                android:text="@string/closeParenthesis"
-                android:background="@color/blood_red"
-                android:textColor="@color/white"
-                android:layout_margin="5dp"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
+                android:layout_margin="5dp"
                 android:layout_weight="1"
-                android:textSize="20sp"
+                android:background="@color/blood_red"
+                android:text="@string/closeParenthesis"
+                android:textColor="@color/white"
+                android:textSize="30sp"
 
                 />
 
             <androidx.appcompat.widget.AppCompatButton
 
                 android:id="@+id/div"
-                android:text="@string/division"
-                android:background="@color/blood_red"
-                android:textColor="@color/white"
-                android:layout_margin="5dp"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
+                android:layout_margin="5dp"
                 android:layout_weight="1"
-                android:textSize="20sp"
+                android:background="@color/blood_red"
+                android:text="@string/division"
+                android:textColor="@color/white"
+                android:textSize="30sp"
 
                 />
 
@@ -117,56 +117,56 @@
             <androidx.appcompat.widget.AppCompatButton
 
                 android:id="@+id/seven"
-                android:text="@string/seven"
-                android:background="@color/dark_red"
-                android:textColor="@color/white"
-                android:layout_margin="5dp"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
+                android:layout_margin="5dp"
                 android:layout_weight="1"
-                android:textSize="20sp"
+                android:background="@color/dark_red"
+                android:text="@string/seven"
+                android:textColor="@color/white"
+                android:textSize="30sp"
 
                 />
 
             <androidx.appcompat.widget.AppCompatButton
 
                 android:id="@+id/eight"
-                android:text="@string/eight"
-                android:background="@color/dark_red"
-                android:textColor="@color/white"
-                android:layout_margin="5dp"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
+                android:layout_margin="5dp"
                 android:layout_weight="1"
-                android:textSize="20sp"
+                android:background="@color/dark_red"
+                android:text="@string/eight"
+                android:textColor="@color/white"
+                android:textSize="30sp"
 
                 />
 
             <androidx.appcompat.widget.AppCompatButton
 
                 android:id="@+id/nine"
-                android:text="@string/nine"
-                android:background="@color/dark_red"
-                android:textColor="@color/white"
-                android:layout_margin="5dp"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
+                android:layout_margin="5dp"
                 android:layout_weight="1"
-                android:textSize="20sp"
+                android:background="@color/dark_red"
+                android:text="@string/nine"
+                android:textColor="@color/white"
+                android:textSize="30sp"
 
                 />
 
             <androidx.appcompat.widget.AppCompatButton
 
                 android:id="@+id/mult"
-                android:text="@string/multiplication"
-                android:background="@color/blood_red"
-                android:textColor="@color/white"
-                android:layout_margin="5dp"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
+                android:layout_margin="5dp"
                 android:layout_weight="1"
-                android:textSize="20sp"
+                android:background="@color/blood_red"
+                android:text="@string/multiplication"
+                android:textColor="@color/white"
+                android:textSize="30sp"
 
                 />
 
@@ -179,56 +179,56 @@
             <androidx.appcompat.widget.AppCompatButton
 
                 android:id="@+id/four"
-                android:text="@string/four"
-                android:background="@color/dark_red"
-                android:textColor="@color/white"
-                android:layout_margin="5dp"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
+                android:layout_margin="5dp"
                 android:layout_weight="1"
-                android:textSize="20sp"
+                android:background="@color/dark_red"
+                android:text="@string/four"
+                android:textColor="@color/white"
+                android:textSize="30sp"
 
                 />
 
             <androidx.appcompat.widget.AppCompatButton
 
                 android:id="@+id/five"
-                android:text="@string/five"
-                android:background="@color/dark_red"
-                android:textColor="@color/white"
-                android:layout_margin="5dp"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
+                android:layout_margin="5dp"
                 android:layout_weight="1"
-                android:textSize="20sp"
+                android:background="@color/dark_red"
+                android:text="@string/five"
+                android:textColor="@color/white"
+                android:textSize="30sp"
 
                 />
 
             <androidx.appcompat.widget.AppCompatButton
 
                 android:id="@+id/six"
-                android:text="@string/six"
-                android:background="@color/dark_red"
-                android:textColor="@color/white"
-                android:layout_margin="5dp"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
+                android:layout_margin="5dp"
                 android:layout_weight="1"
-                android:textSize="20sp"
+                android:background="@color/dark_red"
+                android:text="@string/six"
+                android:textColor="@color/white"
+                android:textSize="30sp"
 
                 />
 
             <androidx.appcompat.widget.AppCompatButton
 
                 android:id="@+id/sub"
-                android:text="@string/subtraction"
-                android:background="@color/blood_red"
-                android:textColor="@color/white"
-                android:layout_margin="5dp"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
+                android:layout_margin="5dp"
                 android:layout_weight="1"
-                android:textSize="20sp"
+                android:background="@color/blood_red"
+                android:text="@string/subtraction"
+                android:textColor="@color/white"
+                android:textSize="30sp"
 
                 />
 
@@ -241,56 +241,56 @@
             <androidx.appcompat.widget.AppCompatButton
 
                 android:id="@+id/one"
-                android:text="@string/one"
-                android:background="@color/dark_red"
-                android:textColor="@color/white"
-                android:layout_margin="5dp"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
+                android:layout_margin="5dp"
                 android:layout_weight="1"
-                android:textSize="20sp"
+                android:background="@color/dark_red"
+                android:text="@string/one"
+                android:textColor="@color/white"
+                android:textSize="30sp"
 
                 />
 
             <androidx.appcompat.widget.AppCompatButton
 
                 android:id="@+id/two"
-                android:text="@string/two"
-                android:background="@color/dark_red"
-                android:textColor="@color/white"
-                android:layout_margin="5dp"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
+                android:layout_margin="5dp"
                 android:layout_weight="1"
-                android:textSize="20sp"
+                android:background="@color/dark_red"
+                android:text="@string/two"
+                android:textColor="@color/white"
+                android:textSize="30sp"
 
                 />
 
             <androidx.appcompat.widget.AppCompatButton
 
                 android:id="@+id/three"
-                android:text="@string/three"
-                android:background="@color/dark_red"
-                android:textColor="@color/white"
-                android:layout_margin="5dp"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
+                android:layout_margin="5dp"
                 android:layout_weight="1"
-                android:textSize="20sp"
+                android:background="@color/dark_red"
+                android:text="@string/three"
+                android:textColor="@color/white"
+                android:textSize="30sp"
 
                 />
 
             <androidx.appcompat.widget.AppCompatButton
 
                 android:id="@+id/sum"
-                android:text="@string/sum"
-                android:background="@color/blood_red"
-                android:textColor="@color/white"
-                android:layout_margin="5dp"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
+                android:layout_margin="5dp"
                 android:layout_weight="1"
-                android:textSize="20sp"
+                android:background="@color/blood_red"
+                android:text="@string/sum"
+                android:textColor="@color/white"
+                android:textSize="30sp"
 
                 />
 
@@ -303,28 +303,28 @@
             <androidx.appcompat.widget.AppCompatButton
 
                 android:id="@+id/zero"
-                android:text="@string/zero"
-                android:background="@color/dark_red"
-                android:textColor="@color/white"
-                android:layout_margin="5dp"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
+                android:layout_margin="5dp"
                 android:layout_weight="1"
-                android:textSize="20sp"
+                android:background="@color/dark_red"
+                android:text="@string/zero"
+                android:textColor="@color/white"
+                android:textSize="30sp"
 
                 />
 
             <androidx.appcompat.widget.AppCompatButton
 
                 android:id="@+id/dot"
-                android:text="@string/dot"
-                android:background="@color/dark_red"
-                android:textColor="@color/white"
-                android:layout_margin="5dp"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
+                android:layout_margin="5dp"
                 android:layout_weight="1"
-                android:textSize="20sp"
+                android:background="@color/dark_red"
+                android:text="@string/dot"
+                android:textColor="@color/white"
+                android:textSize="30sp"
 
                 />
 
@@ -343,14 +343,14 @@
             <androidx.appcompat.widget.AppCompatButton
 
                 android:id="@+id/equal"
-                android:text="@string/equal"
-                android:background="@color/blood_red"
-                android:textColor="@color/white"
-                android:layout_margin="5dp"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
+                android:layout_margin="5dp"
                 android:layout_weight="1"
-                android:textSize="20sp"
+                android:background="@color/blood_red"
+                android:text="@string/equal"
+                android:textColor="@color/white"
+                android:textSize="30sp"
 
                 />
 
